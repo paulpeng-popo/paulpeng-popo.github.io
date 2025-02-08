@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+  
+    
+    <entry>
+      <title>開始使用-Hexo</title>
+      <link href="/2025/02/08/%E9%96%8B%E5%A7%8B%E4%BD%BF%E7%94%A8-Hexo/"/>
+      <url>/2025/02/08/%E9%96%8B%E5%A7%8B%E4%BD%BF%E7%94%A8-Hexo/</url>
+      
+        <content type="html"><![CDATA[<h2 id="附上大神參考資料"><a href="#附上大神參考資料" class="headerlink" title="附上大神參考資料"></a>附上大神參考資料</h2><ul><li>別人的架設筆記：<a href="https://nbchen.com/posts/hexo-butterfly.html">【全流程超详细教程】Hexo + Butterfly：搭建、优化与部署全攻略</a></li><li>Hexo 官網文件：<a href="https://hexo.io/zh-tw/docs/">Hexo 官網</a></li><li>Hexo Butterfly 主題：<a href="https://github.com/jerryc127/hexo-theme-butterfly">Github</a> &#x2F; <a href="https://butterfly.js.org/">教學文件</a></li><li>Hexo 信封留言板：<a href="https://github.com/Akilarlxh/hexo-butterfly-envelope">Github</a> &#x2F; <a href="https://akilar.top/posts/e2d3c450/">教學文件</a></li></ul><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">hexo deploy</span><br></pre></td></tr></table></figure><p><a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Tutorial </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Hexo </tag>
+            
+            <tag> config </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+  
+  
+</search>
